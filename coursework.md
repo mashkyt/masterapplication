@@ -35,7 +35,7 @@ Student Name : Yuelong Ma (Towya)
 | ----------------- | ----------------- | ----------------------------------- | ------ | ----- | -------- |
 | Tongji University | 02/2018 - 07/2018 | Introduction to Information Theory  | 2      | A     | →[^8]    |
 |                   |                   | Mobile Computing Introduction       | 2      | A     | →[^9]    |
-|                   |                   | Formal Languages And Automate       | 2      | B     | →[^10]   |
+|                   |                   | Formal Languages And Automata       | 2      | B     | →[^10]   |
 |                   |                   | Methodology of Software Development | 2      | A     | →[^11]   |
 
 
